@@ -66,4 +66,4 @@ or treatment. Always consult a doctor for serious medical concerns.
 ----------------------------------------------------------
 AUTHOR
 ----------------------------------------------------------
-Developed by: Your Name
+Developed by: Amol Kantela
